@@ -1,8 +1,29 @@
 {
-  "account": [
-    { "id": 1, "role": "admin", "username": "admin", "password": "admin" },
-    { "id": 2, "role": "user", "username": "user1", "password": "user1" },
-    { "id": 3, "role": "user", "username": "user2", "password": "user2" }
+  "user": [
+    {
+      "id": 1,
+      "role": "Admin",
+      "username": "admin",
+      "password": "admin",
+      "fullname": "Admin",
+      "email": "quanhuynh@hd.com"
+    },
+    {
+      "id": 2,
+      "role": "SubUser",
+      "username": "mikepham",
+      "password": "mikepham",
+      "fullname": "Mike Pham",
+      "email": "mikepham@hd.com"
+    },
+    {
+      "id": 3,
+      "role": "SubUser",
+      "username": "JohnTran",
+      "password": "john123",
+      "fullname": "SubUser",
+      "email": "johntran@hd.com"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
