@@ -1,18 +1,6 @@
 {
   "category" : [
     {
-      "id": 1,
-      "category_name": "自然となみ",
-      "slug": "shizentonami",
-      "color": "#2A8947",
-      "publish": false,
-      "dtime": null,
-      "ctime": "2012-10-21",
-      "cid": "1018",
-      "mtime": "",
-      "mid": "",
-    },
-    {
       "id": 2,
       "category_name": "トレーニング",
       "slug": "training",
