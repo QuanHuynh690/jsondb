@@ -32,7 +32,7 @@
   "category": {
     [
     {
-    id: 1,
+    "id": 1,
     "category_name": "自然となみ",
     "slug": "shizentonami",
     "color": "#2A8947",
