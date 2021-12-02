@@ -1,14 +1,64 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "category" : [
+    {
+      "id": 1,
+      "category_name": "自然となみ",
+      "slug": "shizentonami",
+      "color": "#2A8947",
+      "publish": false,
+      "dtime": "",
+      "ctime": "2012-10-21",
+      "cid": "1018",
+      "mtime": "",
+      "mid": "",
+    },
+    {
+      "id": 2,
+      "category_name": "トレーニング",
+      "slug": "training",
+      "color": "#536DFE",
+      "publish": false,
+      "dtime": "",
+      "ctime": "2012-10-21",
+      "cid": "1018",
+      "mtime": "",
+      "mid": "",
+    },
+    {
+      "id": 3,
+      "category_name": "礼日",
+      "slug": "holiday",
+      "color": "#FFfC93",
+      "publish": true,
+      "dtime": "",
+      "ctime": "2012-10-21",
+      "cid": "1018",
+      "mtime": "",
+      "mid": "",
+    },
+    {
+      "id": 4,
+      "category_name": "むつみサイト",
+      "slug": "mutsumi-site",
+      "color": "#aF9C93",
+      "publish": false,
+      "dtime": "",
+      "ctime": "2012-10-21",
+      "cid": "1018",
+      "mtime": "",
+      "mid": "",
+    },
+    {
+      "id": 5,
+      "category_name": "礼日",
+      "slug": "holiday",
+      "color": "#FF5C93",
+      "publish": true,
+      "dtime": "",
+      "ctime": "2012-10-21",
+      "cid": "1018",
+      "mtime": "",
+      "mid": "",
+    },
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
