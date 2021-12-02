@@ -30,7 +30,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "category": [
-    {
+   {
     "id": 1,
     "category_name": "自然となみ",
     "slug": "shizentonami",
@@ -89,6 +89,6 @@
     "cid": "1018",
     "mtime": "",
     "mid": "",
-  },
-    ]
+  }
+  ],
 }
