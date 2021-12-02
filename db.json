@@ -1,33 +1,31 @@
 {
-  "user": [
+  "posts": [
     {
       "id": 1,
-      "role": "Admin",
-      "username": "admin",
-      "password": "admin",
-      "fullname": "Admin",
-      "email": "quanhuynh@hd.com"
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "role": "SubUser",
-      "username": "mikepham",
-      "password": "mikepham",
-      "fullname": "Mike Pham",
-      "email": "mikepham@hd.com"
+      "title": "Post 2"
     },
     {
       "id": 3,
-      "role": "SubUser",
-      "username": "JohnTran",
-      "password": "john123",
-      "fullname": "SubUser",
-      "email": "johntran@hd.com"
+      "title": "Post 3"
     }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
-  
+  "profile": {
+    "name": "typicode"
+  }
 }
